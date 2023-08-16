@@ -1,4 +1,4 @@
-*# Sentiment Analysis for Instagram User Reviews*
+# Sentiment Analysis for Instagram User Reviews
 
 ![sentimentanalysishotelgeneric-2048x803-1](https://github.com/Azzi99/Instagram_User_Sentiment_Analysis/assets/114465492/aac58eb3-c97a-4600-bf30-46c5c5f319fc)
 
